@@ -1,0 +1,18 @@
+# Reference
+
+## General
+
+### TUTORIAL for single-cell RNA/ATAC sequencing
+
+This tutorial is crowd-science effort - open for contribution from the entire community.  
+
+https://docs.google.com/document/d/1eUg7nQ2cqKYGqKjbrBsLGeH53B_MFMPubUJZWYEtgPI/mobilebasic?urp=gmail_link
+
+## Analysis
+
+### Orchestrating Single-Cell Analysis with Bioconductor
+
+This is the website for “Orchestrating Single-Cell Analysis with Bioconductor”,
+a book that teaches users some common workflows for the analysis of single-cell RNA-seq data (scRNA-seq).
+
+https://osca.bioconductor.org/
