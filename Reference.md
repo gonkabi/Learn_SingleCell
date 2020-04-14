@@ -2,6 +2,14 @@
 
 ## General
 
+### SequencEnG: an Interactive Knowledge base of Sequencing techniques
+
+SequencEnG (acronym for Sequencing Techniques Engine for Genomics) to provide a tree-structured knowledge base of 66 different sequencing techniques and step-by-step NGS data analysis pipelines comparing popular tools.  
+SequencEnG is designed to facilitate barrier-free learning of current NGS techniques and provides a user-friendly interface for searching through experimental and analysis methods.  
+
+http://education.knoweng.org/sequenceng/index.html  
+https://doi.org/10.1093/bioinformatics/bty794
+
 ### TUTORIAL for single-cell RNA/ATAC sequencing
 
 This tutorial is crowd-science effort - open for contribution from the entire community.  
