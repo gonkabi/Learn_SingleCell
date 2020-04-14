@@ -1,6 +1,6 @@
 # Reference
 
-## <span style="color: red;　">General</span>
+## `General`
 
 ### SequencEnG: an Interactive Knowledge base of Sequencing techniques
 
